@@ -1,0 +1,12 @@
+# Ensure text files use LF for consistency across platforms
+*.py text eol=lf
+*.yaml text eol=lf
+*.txt text eol=lf
+# Binary files (no line ending conversion)
+*.pkl binary
+*.joblib binary
+*.jpg binary
+*.png binary
+# MLflow artifacts and other text files
+*requirements.txt text eol=lf
+*meta.yaml text eol=lf

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/draissi/Desktop/ml_project_full/ml_project/mlruns/749469777560196776/a14067c71f804e389bccdc706448d7ec/artifacts
+end_time: 1748203423736
+entry_point_name: ''
+experiment_id: '749469777560196776'
+lifecycle_stage: active
+run_id: a14067c71f804e389bccdc706448d7ec
+run_name: youthful-quail-44
+run_uuid: a14067c71f804e389bccdc706448d7ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748203409750
+status: 3
+tags: []
+user_id: draissi

@@ -1,0 +1,3 @@
+data_path: "Dataset.csv"
+model_path: "models/svm_model.pkl"
+scaler_path: "models/scaler.pkl"
